@@ -1,5 +1,4 @@
-#The comments on the following 8 lines were taken from Decimal to Hex Calculator, Paul Jackson. They
-#were provided in the source files. I will state this by using (1) from now on.
+
 
 #==================================================================
 # DATA SEGMENT
@@ -23,7 +22,6 @@ highest_freq_word:    .space 51
 MAX_CHARS:       .word 1001 #define MAX_CHARS 1001
 MAX_WORD_LENGTH: .word 51 #define MAX_WORD_LENGTH 51
 
-#(1)
 #------------------------------------------------------------------
 # Global variables in memory
 #------------------------------------------------------------------
